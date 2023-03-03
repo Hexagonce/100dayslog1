@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Hexagonce Ray]
 
 The log of my #100DaysOfCode challenge. Started on [March 3rd, Friday 2023].
 
